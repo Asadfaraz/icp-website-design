@@ -1,0 +1,2 @@
+Kindly live it with github pages so we see the output there. Make sure to give link in the description. 
+your structure is out of order that why responsiveness in this situation is quit complicated.
